@@ -1,0 +1,14 @@
+C:\Users\boris\source\repos\laba7\laba7(2)\bin\Debug\net6.0\laba7(2).exe
+C:\Users\boris\source\repos\laba7\laba7(2)\bin\Debug\net6.0\laba7(2).deps.json
+C:\Users\boris\source\repos\laba7\laba7(2)\bin\Debug\net6.0\laba7(2).runtimeconfig.json
+C:\Users\boris\source\repos\laba7\laba7(2)\bin\Debug\net6.0\laba7(2).dll
+C:\Users\boris\source\repos\laba7\laba7(2)\bin\Debug\net6.0\laba7(2).pdb
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).AssemblyInfo.cs
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).dll
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\refint\laba7(2).dll
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).pdb
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\laba7(2).genruntimeconfig.cache
+C:\Users\boris\source\repos\laba7\laba7(2)\obj\Debug\net6.0\ref\laba7(2).dll
